@@ -109,7 +109,7 @@
 
 
 @media (max-width: 768px) {
-    #spline-container {
+    .container3d {
         display: none;
     }
 }
