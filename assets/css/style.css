@@ -152,7 +152,7 @@ a {
     position: fixed;
     overflow-y: scroll;
 }
-
+/* ******************************* */
 .side-bar::-webkit-scrollbar {
     display: none;
 }
